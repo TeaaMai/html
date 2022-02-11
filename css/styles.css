@@ -1,4 +1,13 @@
 .item{
     color: blue;
-    background-color: darkgrey;
+    background-color: silver;
+}
+
+h2{
+    color: brown;
+
+}
+
+.item h2{
+    color: #ffd700;
 }
