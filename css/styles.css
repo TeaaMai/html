@@ -1,6 +1,10 @@
 .item{
     color: blue;
     background-color: silver;
+    width: 70%;
+    /*width: 100px;*/
+    border:1px solid green;
+    margin-top: 1%;
 }
 
 h2{
