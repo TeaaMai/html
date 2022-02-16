@@ -33,3 +33,11 @@ h2{
     color: blue;
     border-bottom: 3px solid rebeccapurple;
 }
+
+.table-unam tbody td{
+    border: 1px solid gray;
+    font-size: 15px;
+    text-align: center;
+    border-bottom: 1px solid green;
+    padding: 2px;
+}
