@@ -47,3 +47,11 @@ h2{
 .item-bg-aqua{
     background: aquamarine;
 }
+
+.font-size-3{
+    font-size: 30px;
+}
+
+.text-white{
+    color: white;
+}
