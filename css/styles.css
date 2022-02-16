@@ -1,3 +1,12 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    color: gray;
+}
+
 .item{
     color: blue;
     background-color: silver;
@@ -14,4 +23,13 @@ h2{
 
 .item h2{
     color: #ffd700;
+}
+
+.table-unam{
+    border: 1px solid black;
+}
+
+.table-unam thead th{
+    color: blue;
+    border-bottom: 3px solid rebeccapurple;
 }
