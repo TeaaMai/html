@@ -28,18 +28,19 @@ h2{
 .table-unam{
     border: 1px solid black;
     background: white;
+    width: 80%;
 }
 
 .table-unam thead th{
+    border: 1px black;
     color: blue;
-    border-bottom: 3px solid rebeccapurple;
+    
 }
 
 .table-unam tbody td{
-    border: 1px solid gray;
+    border-bottom: 1px solid gray;
     font-size: 15px;
-    text-align: center;
-    border-bottom: 1px solid green;
+    text-align: justify;
     padding: 2px;
 }
 
@@ -54,4 +55,20 @@ h2{
 
 .text-white{
     color: white;
+}
+
+.btn-primary{
+    background-color: #ffd700;
+    width: 80%;
+    border-radius: 20px;
+    color: black;
+    border: 0;
+    cursor: pointer;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.btn-primary:hover{
+    background-color: yellowgreen;
+    color: gray;
 }
